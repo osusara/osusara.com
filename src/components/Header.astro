@@ -1,0 +1,70 @@
+---
+import { nickName } from "../data.json";
+---
+
+<header class="fixed top-0 left-0 right-0 bg-light/80 backdrop-blur-sm z-50 shadow-lg shadow-black/5">
+  <nav class="max-w-5xl mx-auto px-4 py-4">
+    <div class="flex items-center justify-between">
+      <a href="#" class="text-dark font-bold text-3xl">{nickName}</a>
+
+      <button id="menu-toggle" class="md:hidden" aria-label="Toggle menu">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-7 w-7"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+      </button>
+
+      <ul
+        id="menu"
+        class="hidden md:flex md:gap-6 absolute md:relative top-16 md:top-0 left-0 right-0 bg-light md:bg-transparent p-4 md:p-0"
+      >
+        <li>
+          <a
+            href="#experience"
+            class="block py-2 md:py-0 text-accent hover:text-dark transition-colors"
+            >Experience</a
+          >
+        </li>
+        <li>
+          <a
+            href="#projects"
+            class="block py-2 md:py-0 text-accent hover:text-dark transition-colors"
+            >Projects</a
+          >
+        </li>
+        <li>
+          <a
+            href="#skills"
+            class="block py-2 md:py-0 text-accent hover:text-dark transition-colors"
+            >Skills</a
+          >
+        </li>
+        <li>
+          <a
+            href="#education"
+            class="block py-2 md:py-0 text-accent hover:text-dark transition-colors"
+            >Education</a
+          >
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const menuToggle = document.getElementById("menu-toggle");
+  const menu = document.getElementById("menu");
+
+  menuToggle?.addEventListener("click", () => {
+    menu?.classList.toggle("hidden");
+  });
+</script>

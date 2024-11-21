@@ -1,0 +1,289 @@
+{
+  "firstName": "Osusara",
+  "lastName": "Kammalawatta",
+  "fullName": "Osusara Kammalawatta",
+  "nickName": "OSSA",
+  "email": "osusarak@gmail.com",
+  "location": "Colombo, Sri Lanka",
+  "website": "https://osusara.com",
+  "profilePicture": "images/profile.jpg",
+  "bio": "I am a software engineer with a passion for building scalable and efficient systems.",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/osusara",
+      "icon": "github"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@osusarak",
+      "icon": "medium"
+    },
+    {
+      "name": "Behance",
+      "url": "https://behance.net/osusara",
+      "icon": "behance"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/osusara",
+      "icon": "linkedin"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@osusara",
+      "icon": "youtube"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/osusara",
+      "icon": "facebook"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/osusara.kammalawatta",
+      "icon": "instagram"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/kammalawatta",
+      "icon": "x-twitter"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sabaragamuwa University of Sri Lanka",
+      "programme": "BSc (Hons) in Information Systems",
+      "startYear": "2017",
+      "endYear": "2022",
+      "result": "3.29 GPA"
+    },
+    {
+      "institution": "Esoft Metro Campus",
+      "programme": "Oracle Certified Associated Java Programmer",
+      "startYear": "2017",
+      "endYear": "2018",
+      "result": null
+    },
+    {
+      "institution": "Mahanama College, Colombo",
+      "programme": "GCE Advanced Level (Mathematics Stream)",
+      "startYear": "2013",
+      "endYear": "2015",
+      "result": "B, C, S"
+    },
+    {
+      "institution": "Mahanama College, Colombo",
+      "programme": "GCE Ordinary Level",
+      "startYear": "2001",
+      "endYear": "2012",
+      "result": "7As, B, C"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Calcey Technologies",
+      "companyUrl": "https://calcey.com",
+      "companyLocation": "Colombo, Sri Lanka",
+      "employmentType": "Full-time",
+      "positions": [
+        {
+          "title": "Software Engineer",
+          "startMonth": "January 2023",
+          "endMonth": "Present"
+        },
+        {
+          "title": "Associate Software Engineer",
+          "startMonth": "April 2022",
+          "endMonth": "December 2022"
+        }
+      ]
+    },
+    {
+      "company": "WriterGate",
+      "companyUrl": "https://writergate.com",
+      "companyLocation": "Remote",
+      "employmentType": "Contract",
+      "positions": [
+        {
+          "title": "Technical Writer",
+          "startMonth": "March 2022",
+          "endMonth": "Present"
+        }
+      ]
+    },
+    {
+      "company": "DirectFN",
+      "companyUrl": "https://directfn.lk",
+      "companyLocation": "Malabe, Sri Lanka",
+      "employmentType": "Full-time",
+      "positions": [
+        {
+          "title": "Software Engineer (Front-end)",
+          "startMonth": "December 2021",
+          "endMonth": "April 2022"
+        }
+      ]
+    },
+    {
+      "company": "99x",
+      "companyUrl": "https://99x.io",
+      "companyLocation": "Colombo, Sri Lanka",
+      "employmentType": "Internship",
+      "positions": [
+        {
+          "title": "Software Engineer (Intern)",
+          "startMonth": "June 2020",
+          "endMonth": "December 2020"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resource Tool",
+      "url": null,
+      "company": "Calcey Technologies",
+      "startMonth": "September 2024",
+      "endMonth": "Present",
+      "description": "Resource Tool is an internal project that helps to manage human resources of Calcey.",
+      "role": [
+        "As a front-end developer, I was responsible for implementing the employee management and resource allocation features.",
+        "Involved in Creating new optimized and reusable front-end components, integrating REST APIs and bug fixes."
+      ],
+      "techStack": ["React", "TypeScript"]
+    },
+    {
+      "name": "Stampen Media",
+      "url": "https://www.gp.se/",
+      "company": "Calcey Technologies",
+      "startMonth": "April 2022",
+      "endMonth": "September 2024",
+      "description": "Stampen Media, one of Sweden’s largest media houses, partnered with Calcey to enhance their digital media landscape.",
+      "role": [
+        "As a full stack developer, I was responsible for implementing a new purchase flow which allows users to subscribe to different news sites, e-papers and newspapers.",
+        "Involved in implementing new optimized and reusable front-end components, integrating third party services, managing back-end code, and implementing unit tests.",
+        "Also involved in communicating with clients in requirement gathering, agile ceremonies and live demos."
+      ],
+      "techStack": ["React", "Next.js", "TypeScript", "Node.js", "AWS", "PostgreSQL"]
+    },
+    {
+      "name": "DirectFN Universal App",
+      "url": "https://play.google.com/store/apps/details?id=com.directfn.universal_srilanka",
+      "company": "DirectFN",
+      "startMonth": "December 2021",
+      "endMonth": "April 2022",
+      "description": "The DirectFN Universal app is a comprehensive financial trading application designed for investors and traders. It provides access to real-time market data, financial news, and analytics across various global stock exchanges.",
+      "role": [
+        "As a front-end developer, I was responsible for implementing the front-end components for the new features and doing front-end customization according to the client requirements."
+      ],
+      "techStack": ["Ember.js", "JavaScript"]
+    },
+    {
+      "name": "FitSL App",
+      "url": null,
+      "company": "Startup",
+      "startMonth": "July 2021",
+      "endMonth": "December 2021",
+      "description": "FitSL is a mobile application designed to help users track their fitness goals and progress. It provides a range of features to monitor workouts, track nutrition, and set personalized fitness goals.",
+      "role": [
+        "As a developer, I was responsible for implementing the app UI and logic, integrating Firebase services and integrating PayHere payment gateway.",
+        "Also involved in UI/UX design and manualtesting the app in different devices."
+      ],
+      "techStack": ["Flutter", "Dart", "Firebase", "NoSQL"]
+    },
+    {
+      "name": "Winning Product Office",
+      "url": "https://www.winningproduct.com/",
+      "company": "99x",
+      "startMonth": "June 2020",
+      "endMonth": "December 2020",
+      "description": "The Winning Product Office (WPO) focuses on enhancing the company’s product development capabilities by leveraging data-driven insights, agile methodologies, and collaborative tools to ensure that products meet market demands and client expectations.",
+      "role": [
+        "As a full stack developer, I was responsible for implementing the user dashboard WPO Audit Tool which allows users to manage their software products development process.",
+        "Involved in developing scalable UI components along with the backend APIs, and managing scripts for AWS CodePipeline to perform deployments."
+      ],
+      "techStack": ["Angular", "Gatsby", "Node.js", "AWS", "SQL"]
+    }
+  ],
+  "extraCurricular": [
+    {
+      "position": "Editor",
+      "company": "Society of Computer Sciences of Sabaragamuwa University of Sri Lanka",
+      "url": "https://www.sab.ac.lk/computing/student-societies/Society-of-Computer-Sciences-about",
+      "years": "2019 - 2020"
+    },
+    {
+      "position": "Main Coordinator",
+      "url": "https://web.facebook.com/socs.susl/posts/code-night-v30-on-28th-and-29th-november-2019-from-600-pm-to-700-am-at-lt-104-ha/2584639028425924/?_rdc=1&_rdr",
+      "company": "Code Night V3.0 intra university hackathon",
+      "years": "2019"
+    },
+    {
+      "position": "Designer and Developer",
+      "company": "Sustainable Educational Foundation",
+      "url": "https://sefglobal.org/",
+      "years": "2019 - 2020"
+    }
+  ],
+  "skills": [
+    {
+      "type": "Languages",
+      "skills": ["TypeScript", "JavaScript", "Dart"]
+    },
+    {
+      "type": "Front-end",
+      "skills": ["React", "Redux", "Next.js", "Astro"]
+    },
+    {
+      "type": "Back-end",
+      "skills": ["Node.js", "Express"]
+    },
+    {
+      "type": "Mobile",
+      "skills": ["Flutter", "React Native"]
+    },
+    {
+      "type": "Database",
+      "skills": ["MySQL", "PostgreSQL", "MongoDB"]
+    },
+    {
+      "type": "Cloud",
+      "skills": ["AWS", "Firebase"]
+    },
+    {
+      "type": "Design",
+      "skills": ["Photoshop", "Illustrator", "Figma"]
+    },
+    {
+      "type": "Content Creation",
+      "skills": [
+        "Premiere Pro",
+        "After Effects"
+      ]
+    }
+  ],
+  "interests": ["Web Development", "Mobile Development", "Content Creation", "Content Writing", "Music"],
+  "youtube": {
+    "channelName": "Ossa - ඔස්සා",
+    "url": "https://www.youtube.com/@osusara",
+    "description": "A channel where I share my voices in the head in video format.",
+    "videos": [
+      {
+        "title": "Haunted (Horror Short Film)",
+        "description": "Group of after try to contact non-living entities and face the consequences.",
+        "url": "https://youtu.be/UHNfYSQpxa0"
+      },
+      {
+        "title": "Bicycle Ride in Green Heaven",
+        "description": "I had a crazy thought of riding my bicycle in one of the most beautiful, greenish, chill and scenic roads in Sri Lanka. I’m not talking about mountain cycling. Just a relaxing bicycle ride.",
+        "url": "https://youtu.be/2XXP224t76E"
+      },
+      {
+        "title": "Singing Misheard Sinhala Lyrics (වැරදියට ඇහෙන සිංදු)",
+        "description": "වැරදියට ඇහෙන සිංදු කියලා වැරදියටම කියලා බැලුවා. I sang misheard Sinhala song lyrics.",
+        "url": "https://youtu.be/VBVpfPtJQ3I"
+      }
+    ]
+  }
+}
