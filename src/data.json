@@ -8,6 +8,17 @@
   "website": "https://osusara.com",
   "profilePicture": "images/profile.jpg",
   "bio": "I am a software engineer with a passion for building scalable and efficient systems.",
+  "keywords": [
+    "software engineer",
+    "full stack developer",
+    "mobile developer",
+    "web developer",
+    "content creator",
+    "content writer",
+    "osusara",
+    "kammalawatta",
+    "ossa"
+  ],
   "links": [
     {
       "name": "GitHub",
@@ -165,7 +176,14 @@
         "Involved in implementing new optimized and reusable front-end components, integrating third party services, managing back-end code, and implementing unit tests.",
         "Also involved in communicating with clients in requirement gathering, agile ceremonies and live demos."
       ],
-      "techStack": ["React", "Next.js", "TypeScript", "Node.js", "AWS", "PostgreSQL"]
+      "techStack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "AWS",
+        "PostgreSQL"
+      ]
     },
     {
       "name": "DirectFN Universal App",
@@ -257,13 +275,16 @@
     },
     {
       "type": "Content Creation",
-      "skills": [
-        "Premiere Pro",
-        "After Effects"
-      ]
+      "skills": ["Premiere Pro", "After Effects"]
     }
   ],
-  "interests": ["Web Development", "Mobile Development", "Content Creation", "Content Writing", "Music"],
+  "interests": [
+    "Web Development",
+    "Mobile Development",
+    "Content Creation",
+    "Content Writing",
+    "Music"
+  ],
   "youtube": {
     "channelName": "Ossa - ඔස්සා",
     "url": "https://www.youtube.com/@osusara",

@@ -10,7 +10,12 @@ function getVideoId(url: string) {
 }
 ---
 
-<Layout title={data.fullName}>
+<Layout
+  title={data.fullName}
+  description={data.bio}
+  keywords={data.keywords}
+  author={data.fullName}
+>
   <!-- Hero Section -->
   <section
     class="relative max-w-7xl mx-auto px-4 min-h-[85vh] flex items-center mb-20"
@@ -25,7 +30,7 @@ function getVideoId(url: string) {
             src={data.profilePicture}
             alt={data.fullName}
             class="w-full h-full object-cover"
-			loading="lazy"
+            loading="lazy"
           />
         </div>
 
