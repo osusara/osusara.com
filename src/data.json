@@ -99,9 +99,14 @@
       "employmentType": "Full-time",
       "positions": [
         {
+          "title": "Senior Software Engineer",
+          "startMonth": "January 2025",
+          "endMonth": "Present"
+        },
+        {
           "title": "Software Engineer",
           "startMonth": "January 2023",
-          "endMonth": "Present"
+          "endMonth": "December 2024"
         },
         {
           "title": "Associate Software Engineer",
@@ -152,11 +157,25 @@
   ],
   "projects": [
     {
+      "name": "DreamStart Labs",
+      "url": "https://www.dreamstartlabs.com/",
+      "company": "Calcey Technologies",
+      "startMonth": "January 2025",
+      "endMonth": "Present",
+      "description": "DreamStart Labs helps people in the developing world achieve their dreams of a better life. Our award-winning digital banking technology makes it easy for previously unbanked individuals to save money, build credit history, access loans, and achieve their financial goals.",
+      "role": [
+        "Developed and maintained dynamic Power BI reports and dashboards, ensuring data accuracy and delivering actionable insights to stakeholders.",
+        "Worked with large volumes of data by gathering client requirements, designing optimized data models, and implementing efficient data transformations.",
+        "Contributed to the development of a web application that visualizes integrated data from multiple sources, enhancing data accessibility and decision-making."
+      ],
+      "techStack": ["PowerBI", "PostgreSQL", "MongoDB", "React"]
+    },
+    {
       "name": "Resource Tool",
       "url": null,
       "company": "Calcey Technologies",
       "startMonth": "September 2024",
-      "endMonth": "Present",
+      "endMonth": "December 2024",
       "description": "Resource Tool is an internal project that helps to manage human resources of Calcey.",
       "role": [
         "As a front-end developer, I was responsible for implementing the employee management and resource allocation features.",
@@ -276,6 +295,10 @@
     {
       "type": "Content Creation",
       "skills": ["Premiere Pro", "After Effects"]
+    },
+    {
+      "type": "Others",
+      "skills": ["Power BI", "Git"]
     }
   ],
   "interests": [
