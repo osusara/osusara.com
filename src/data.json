@@ -168,7 +168,7 @@
         "Worked with large volumes of data by gathering client requirements, designing optimized data models, and implementing efficient data transformations.",
         "Contributed to the development of a web application that visualizes integrated data from multiple sources, enhancing data accessibility and decision-making."
       ],
-      "techStack": ["PowerBI", "PostgreSQL", "MongoDB", "React"]
+      "techStack": ["PowerBI", "PostgreSQL", "MongoDB", "React", "Python"]
     },
     {
       "name": "Resource Tool",
@@ -266,11 +266,11 @@
   "skills": [
     {
       "type": "Languages",
-      "skills": ["TypeScript", "JavaScript", "Dart"]
+      "skills": ["TypeScript", "JavaScript", "Python", "Dart"]
     },
     {
       "type": "Front-end",
-      "skills": ["React", "Redux", "Next.js", "Astro"]
+      "skills": ["React", "Redux", "Next.js", "Astro", "Tailwind CSS"]
     },
     {
       "type": "Back-end",
@@ -286,7 +286,7 @@
     },
     {
       "type": "Cloud",
-      "skills": ["AWS", "Firebase"]
+      "skills": ["AWS", "Firebase", "Supabase"]
     },
     {
       "type": "Design",
